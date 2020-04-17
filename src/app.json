@@ -1,0 +1,18 @@
+{
+    "pages": [
+        "pages/index/main",
+        "pages/luckDraw/main",
+        "pages/freeReceive/main",
+        "pages/notLogin/main",
+        "pages/webView/main"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "电视家福利吧",
+        "navigationBarTextStyle": "black"
+    },
+    "navigateToMiniProgramAppIdList": [
+        "wxa418cef64294be82"
+    ]
+}
